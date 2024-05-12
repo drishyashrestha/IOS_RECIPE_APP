@@ -9,12 +9,12 @@ Wireframes
 Schema
 Overview
 
-#Description
+## Description
 Recipe Hub is a comprehensive recipe management app designed to make cooking enjoyable and accessible for everyone. 
 It offers essential tools such as recipe browsing, meal planning, and organizing favorites, helping users discover new recipes and plan meals efficiently.
 
 
-##App Evaluation
+## App Evaluation
 Category: Food & Cooking
 Mobile: The app leverages mobile features such as list views and simple navigation for a user-friendly experience. It does not require advanced features like camera integration or push notifications.
 Story: Recipe Hub aims to make cooking easy and fun for users of all skill levels. It caters to individuals seeking to explore new recipes, organize their favorites, and improve their culinary skills.
@@ -22,7 +22,10 @@ Market: The market for cooking and recipe apps is large and diverse, with a wide
 Habit: Recipe Hub encourages users to cook more frequently and confidently by providing convenient tools for meal planning and recipe discovery. It fosters a habit of home cooking with helpful resources and a curated selection of recipes.
 Scope: The app focuses on essential features achievable within iOS development. These include browsing recipes, saving favorites, creating meal plans, and generating shopping lists. These features provide a streamlined cooking experience.
 
-##Product Spec
+##  Features
+
+The following **required** functionality is completed:
+
 
 1. User Stories (Required and Optional)
 Required Must-have Stories
