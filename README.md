@@ -9,10 +9,15 @@ It offers essential tools such as recipe browsing, meal planning, and organizing
 
 ## App Evaluation
 Category: Food & Cooking </br>
+
 Mobile: The app leverages mobile features such as list views and simple navigation for a user-friendly experience. It does not require advanced features like camera integration or push notifications.</br>
+
 Story: Recipe Repository aims to make cooking easy and fun for users of all skill levels. It caters to individuals seeking to explore new recipes, organize their favorites, and improve their culinary skills.</br>
+
 Market: The market for cooking and recipe apps is large and diverse, with a wide audience of home cooks and food enthusiasts. Recipe Hub targets this market with a straightforward and easy-to-use platform for finding and organizing recipes.</br>
+
 Habit: Recipe Hub encourages users to cook more frequently and confidently by providing convenient tools for meal planning and recipe discovery. It fosters a habit of home cooking with helpful resources and a curated selection of recipes.</br>
+
 Scope: The app focuses on essential features achievable within iOS development. These include browsing recipes, saving favorites, creating meal plans, and generating shopping lists. These features provide a streamlined cooking experience.</br>
 
 ##  Features
@@ -35,37 +40,23 @@ Required Must-have Stories
 - [X] User can share feedback on recipes by rating and reviewing them.
 - [X] User can share recipes with others via social platforms.
  
-2. Screen Archetypes
-Login Screen
-User can log in to the app.
-Registration Screen
-User can create a new account.
-Home Screen
-Users can browse a curated list of recipes or explore by category.
-Recipe Details Screen
-Users can view the details of a selected recipe.
-Favorites Screen
-Users can view and manage their saved favorite recipes.
-Meal Planner Screen
-Users can schedule meals and organize them into a calendar.
-Profile Screen
-Users can view and edit their account information and sign out.
-3. Navigation
-Tab Navigation (Tab to Screen)
 
-Home Screen
-Favorites Screen
-Meal Planner Screen
-Profile Screen
-Flow Navigation (Screen to Screen)
+2. Navigation </br>
 
-Login Screen → Registration Screen
-Login Screen → Home Screen
-Home Screen → Recipe Details Screen
-Home Screen → Favorites Screen
-Favorites Screen → Meal Planner Screen
-Meal Planner Screen → Profile Screen
-Wireframes
+Tab Navigation (Tab to Screen) 
+Home Screen</br>
+Favorites Screen</br>
+Meal Planner Screen</br>
+Profile Screen</br>
+Flow Navigation (Screen to Screen)</br>
+</br>
+Login Screen → Registration Screen</br>
+Login Screen → Home Screen</br>
+Home Screen → Recipe Details Screen</br>
+Home Screen → Favorites Screen</br>
+Favorites Screen → Meal Planner Screen</br>
+Meal Planner Screen → Profile Screen</br>
+
 
 Wireframes of the app
 https://imgur.com/a/Px8Yeju
