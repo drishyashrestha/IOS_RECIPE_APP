@@ -1,21 +1,21 @@
-Drishya Shrestha
-Name of App: Recipe Hub
+## Drishya Shrestha
+## Name of App: Recipe Hub
 
-Table of Contents
+## Table of Contents
 
-Overview
+Overview \n
 Product Spec
 Wireframes
 Schema
 Overview
 
 ## Description
-Recipe Hub is a comprehensive recipe management app designed to make cooking enjoyable and accessible for everyone. 
-It offers essential tools such as recipe browsing, meal planning, and organizing favorites, helping users discover new recipes and plan meals efficiently.
+Recipe Hub is a comprehensive recipe management app designed to make cooking enjoyable and accessible for everyone.  </br>
+It offers essential tools such as recipe browsing, meal planning, and organizing favorites, helping users discover new recipes and plan meals efficiently. </br>
 
 
 ## App Evaluation
-Category: Food & Cooking
+Category: Food & Cooking \
 Mobile: The app leverages mobile features such as list views and simple navigation for a user-friendly experience. It does not require advanced features like camera integration or push notifications.
 Story: Recipe Hub aims to make cooking easy and fun for users of all skill levels. It caters to individuals seeking to explore new recipes, organize their favorites, and improve their culinary skills.
 Market: The market for cooking and recipe apps is large and diverse, with a wide audience of home cooks and food enthusiasts. Recipe Hub targets this market with a straightforward and easy-to-use platform for finding and organizing recipes.
